@@ -1,0 +1,18 @@
+[
+  { "title": "1 ARF", "filename": "1 ARF.pdf", "icon": "1ARF.jpg" },
+  { "title": "1 Heart Failure", "filename": "1 Heart Failure.pdf", "icon": "./codingtalk/1 Heart Failure.jpg" },
+  { "title": "2 Encephalopathy", "filename": "2 Encephalopathy.pdf", "icon": "./codingtalk/2 Encephalopathy.jpg" },
+  { "title": "3 DM", "filename": "3 DM.pdf", "icon": "./codingtalk/3 DM.jpg" },
+  { "title": "4 PNA", "filename": "4 PNA.pdf", "icon": "./codingtalk/4 PNA.jpg" },
+  { "title": "6 CVA", "filename": "6 CVA.pdf", "icon": "./codingtalk/6 CVA.jpg" },
+  { "title": "7 ULCERS", "filename": "7 ULCERS.pdf", "icon": "./codingtalk/7 ULCERS.jpg" },
+  { "title": "10 Functional Quadriplegia", "filename": "10 Functional Quadriplegia.pdf", "icon": "./codingtalk/10 Functional Quadriplegia.jpg" },
+  { "title": "11 Acute MI", "filename": "11 Acute MI.pdf", "icon": "./codingtalk/11 Acute MI.jpg" },
+  { "title": "12 AKI", "filename": "12 AKI.pdf", "icon": "./codingtalk/12 AKI.jpg" },
+  { "title": "12 Pulmonary Hypertension", "filename": "12 Pulmonary Hypertension.pdf", "icon": "./codingtalk/12 Pulmonary Hypertension.jpg" },
+  {
+    "title": "August 2018 Newsletter",
+    "filename": "August 2018 Newsletter - Depth of Incisional Infected Site Following a Surgical Procedure T81.4X.pdf",
+    "icon": "./codingtalk/August%202018%20Newsletter%20-%20Depth%20of%20Incisional%20Infected%20Site%20Following%20a%20Surgical%20Procedure%20T81.4X-001.jpg"
+  }
+]
