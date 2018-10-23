@@ -3,14 +3,7 @@
   "short_name": "icd10.client",
   "icons": [
     {
-      "src": "/img/icons/android-chrome-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/img/icons/android-chrome-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
+      "src": "./img/logo/chsli-logo.jpg"
     }
   ],
   "start_url": "https://wjakahi.github.io/icd10.client",
