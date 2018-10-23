@@ -3,7 +3,7 @@
   "short_name": "icd10.client",
   "icons": [
     {
-      "src": "./img/logo/chsli-logo.jpg"
+      "src": "./img/icons/chsli-logo.jpg"
     }
   ],
   "start_url": "https://wjakahi.github.io/icd10.client",
