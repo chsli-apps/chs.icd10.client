@@ -1,6 +1,6 @@
 {
-  "name": "icd10.client.1",
-  "short_name": "icd10.client.1",
+  "name": "icd10.client.1a",
+  "short_name": "icd10.client.1a",
   "icons": [
     {
       "src": "/img/icons/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "index.html",
+  "start_url": "https://wjakahi.github.io/icd10.client",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#4DBA87"
