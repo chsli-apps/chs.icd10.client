@@ -1,6 +1,6 @@
 {
-  "name": "icd10.client.1a",
-  "short_name": "icd10.client.1a",
+  "name": "ICD10 Pocket Guide",
+  "short_name": "ICD10 Pocket Guide",
   "icons": [
     {
       "src": "/img/icons/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "https://wjakahi.github.io/icd10temp",
+  "start_url": "https://wjakahi.github.io/chs.icd10.client",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#4DBA87"
