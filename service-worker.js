@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.f6e42dc0e18fe8ac8cbd74f838f730af.js"
+  "/precache-manifest.d505b2ba459554ee4af47f2ffff5a794.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "icd10.client"});
