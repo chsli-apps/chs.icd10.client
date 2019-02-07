@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "d809499d45296910f7a3785ec53cf26a",
-    "url": "/codingtalk/12 AKI.pdf"
+    "revision": "9df772271064349e25c14833c9b74220",
+    "url": "/codingtalk/10 Functional Quadriplegia.pdf"
   },
   {
     "revision": "a617ca336439cacfb0b8",
     "url": "/css/about.f62b152a.css"
   },
   {
-    "revision": "9a0694fc3cc81d3d0bb7",
+    "revision": "a6f4737a10e53388600d",
     "url": "/css/app.c8e6f075.css"
   },
   {
-    "revision": "9a0694fc3cc81d3d0bb7",
-    "url": "/js/app.7e50d5fa.js"
+    "revision": "a6f4737a10e53388600d",
+    "url": "/js/app.abbc2813.js"
   },
   {
     "revision": "37647b709acfc6d40497",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.17b64b9f.js"
   },
   {
-    "revision": "c38d100e3c6f7d650c80d9c83be5a1ea",
+    "revision": "a2825221e56a9e5d8a7b537d73a3d051",
     "url": "/index.html"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/js/about.2337f6d4.js"
   },
   {
-    "revision": "7f59716245b3f6cf8c6391f14ead493a",
-    "url": "/codingtalk/3 DM.jpg"
+    "revision": "000d2efa6b2f9247a9ecff98482aadbd",
+    "url": "/codingtalk/4 PNA.jpg"
   },
   {
     "revision": "cf0a7ab540041fc21c4035161ebc5495",
@@ -52,24 +52,24 @@ self.__precacheManifest = [
     "url": "/codingtalk/codingtalk.json"
   },
   {
-    "revision": "2d4970c6a02bf6388f7a90ae34db7441",
-    "url": "/codingtalk/6 CVA.pdf"
+    "revision": "5bd54a7c7e7361904fcb82a0efc54882",
+    "url": "/codingtalk/1ARF.jpg"
   },
   {
-    "revision": "05aad43995e42335e4489cc247a5c7cc",
-    "url": "/codingtalk/11 malnutrition.jpg"
-  },
-  {
-    "revision": "d2a09e5bc92570cd8d5f1bc2b518204c",
-    "url": "/codingtalk/12 Pulmonary Hypertension.pdf"
+    "revision": "9879f81d4890d6e0efb363fcc4348a82",
+    "url": "/codingtalk/11 Acute MI.pdf"
   },
   {
     "revision": "645ceefdf50e81901b4ea66b109d3154",
     "url": "/codingtalk/12 AKI.jpg"
   },
   {
-    "revision": "e9498b2932f711393b2f6ee701bff5e3",
-    "url": "/codingtalk/6 CVA.jpg"
+    "revision": "d809499d45296910f7a3785ec53cf26a",
+    "url": "/codingtalk/12 AKI.pdf"
+  },
+  {
+    "revision": "d2a09e5bc92570cd8d5f1bc2b518204c",
+    "url": "/codingtalk/12 Pulmonary Hypertension.pdf"
   },
   {
     "revision": "6d71e0925f20f14ad9d1aa832e25e241",
@@ -80,48 +80,48 @@ self.__precacheManifest = [
     "url": "/codingtalk/2 Encephalopathy.jpg"
   },
   {
-    "revision": "8ad3fd24f791527a066547bd85343c64",
-    "url": "/codingtalk/2 Encephalopathy.pdf"
+    "revision": "7f59716245b3f6cf8c6391f14ead493a",
+    "url": "/codingtalk/3 DM.jpg"
   },
   {
-    "revision": "46f3782f373a152183366adaa94fe773",
-    "url": "/codingtalk/3 DM.pdf"
+    "revision": "8ad3fd24f791527a066547bd85343c64",
+    "url": "/codingtalk/2 Encephalopathy.pdf"
   },
   {
     "revision": "c7a0f7e01f4b70ebd129a3c0d8fd57dc",
     "url": "/codingtalk/11 malnutrition.pdf"
   },
   {
+    "revision": "46f3782f373a152183366adaa94fe773",
+    "url": "/codingtalk/3 DM.pdf"
+  },
+  {
+    "revision": "05aad43995e42335e4489cc247a5c7cc",
+    "url": "/codingtalk/11 malnutrition.jpg"
+  },
+  {
     "revision": "4bc7da4e7e61b4cda49c1f146dfc4fa7",
     "url": "/codingtalk/4 PNA.pdf"
   },
   {
-    "revision": "6baaa7d22a04e79d547f5131920bb272",
-    "url": "/codingtalk/7 ULCERS.jpg"
-  },
-  {
-    "revision": "5bd54a7c7e7361904fcb82a0efc54882",
-    "url": "/codingtalk/1ARF.jpg"
+    "revision": "2d4970c6a02bf6388f7a90ae34db7441",
+    "url": "/codingtalk/6 CVA.pdf"
   },
   {
     "revision": "8e0281d4ce6333bd0878843a1d1fd08f",
     "url": "/codingtalk/7 ULCERS.pdf"
   },
   {
-    "revision": "000d2efa6b2f9247a9ecff98482aadbd",
-    "url": "/codingtalk/4 PNA.jpg"
+    "revision": "e9498b2932f711393b2f6ee701bff5e3",
+    "url": "/codingtalk/6 CVA.jpg"
   },
   {
-    "revision": "9879f81d4890d6e0efb363fcc4348a82",
-    "url": "/codingtalk/11 Acute MI.pdf"
+    "revision": "6baaa7d22a04e79d547f5131920bb272",
+    "url": "/codingtalk/7 ULCERS.jpg"
   },
   {
     "revision": "a3677261893bca4667a3a285da09d094",
     "url": "/codingtalk/11 Acute MI.jpg"
-  },
-  {
-    "revision": "9df772271064349e25c14833c9b74220",
-    "url": "/codingtalk/10 Functional Quadriplegia.pdf"
   },
   {
     "revision": "d24343d7e83c379f7845717bf40ef87a",
